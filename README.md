@@ -6,6 +6,9 @@
 ### Real Estate Contact Management System - 
 The purpose of this project was to create a contact management system for different real estate companies. This includes keeping track of employees, banks, bank accounts, customers, owners, properties and more. Using pthon to create a custome GUI with Tkinter and a database made in SQL we were able to create a database to store this information
 
+### Gym Management -
+This projects purpose was to create an interface for a gym management system. This system keeps track of newly created members, existing members, concession items. It also generates schedules with both group classes and one on one classes. It keeps track of members and how many times they check into the gym and gives points to members that they can use for concession items
+
 ### Investment -
 This projects purpose when creating it was to create an interest calculator. It is able to incorporate the inputs from the user in the terminal but also if a .csv file is added in the correct format then it is able to process each line of the .csv file. You are able to calculate either the simple or the compound interest and it takes in parameters like the inital amount, two dates, interest type and rate. It uses these inputs to calculate the interest over that time period
 
