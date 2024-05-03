@@ -18,10 +18,10 @@ public class RFFC {
         maristGym.setConcession(concession);
         Scanner input = new Scanner(System.in);
         try {
-            Scanner classes = new Scanner(new File("src/finalProject/classes.csv"));
-            Scanner product = new Scanner(new File("src/finalProject/products.csv"));
-            Scanner members = new Scanner(new File("src/finalProject/members.csv"));
-            Scanner employees = new Scanner(new File("src/finalProject/employees.csv"));
+            Scanner classes = new Scanner(new File("src/GymManagement/classes.csv"));
+            Scanner product = new Scanner(new File("src/GymManagement/products.csv"));
+            Scanner members = new Scanner(new File("src/GymManagement/members.csv"));
+            Scanner employees = new Scanner(new File("src/GymManagement/employees.csv"));
             maristGym.setClasses(createClassList(classes, maristGym));
             maristGym.getConcession().setProducts(createProductList(product, maristGym));
             maristGym.setMembers(createMembers(members, maristGym));
