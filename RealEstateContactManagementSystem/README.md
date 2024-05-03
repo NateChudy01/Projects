@@ -1,2 +1,0 @@
-# Run The Project
-### Download all the files included in this folder. First, access the red_foxes_database.sql database in MySQLWorkbench. Then run a query using the 3NF_views.sql to create the views for the .sql database. Finally, run the 3NF_RedFoxesGUI.py anywhere you desire, I used IDLE, and then sign in with the root user that you had to log into MySQLWorkbench with and you will be able to access the database
