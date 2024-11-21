@@ -1,8 +1,8 @@
 # How To Run
 
-#### When running this program there are multiple parameters you can change. In the run command below you can change different values which is shown below
+#### When running this program there are multiple parameters you can change. In the run command below you can change different values which is shown below:
 
-#### ./project2 Alpha Beta Omega runType imageScale numThreads
+#### **** ./project2 Alpha Beta Omega runType imageScale numThreads ****
 
 #### To understand these parameters make sure to look at lines 
 
