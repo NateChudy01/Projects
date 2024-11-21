@@ -6,7 +6,7 @@
 ### Grid-Based Flu Transmission Simulation (C++) ** Used OpenMP for multithreading and parallelism **
 The purpose of this project was to create a visual simulation of a disease, in this case the Flu. There are a number of different variables you can change to see how the flu rate changed including the initial population that is infected with the flu (alpha), the chance that a person with transmit the flu to others (beta), the amount of time someone is infected with the flu (omega) and much more. In order to understand the prject more and how to use it, check out the README.md fild of the project to begin running
 
-### DBScan Algorithm (C++) ** Used the stanrard thread library for parallelism and multithreading **
+### DBScan Algorithm (C++) ** Used the standard thread library for parallelism and multithreading **
 The purpose of this project is to create the DBScan algorithm. The DBScan algorithm is a point grouping algorithm that groups points into different clusters depending upon how far apart they are from other points. This is controlled by a number of inputs including Epsilon, and MinPts. Epsilon is the farthest distance two points can be away from each other while being in the same cluster, and MinPts is the minimum number of points a group needs to have to be considered a cluster. Look into the DBScan algorithm file and the README.md will show how to run it and the specifics of the algorithm
 
 ### Real Estate Contact Management System (Python, MySQL)
