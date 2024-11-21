@@ -3,7 +3,7 @@
 
 ## Projects:
 
-### Grid-Based Flu Transmission Simulation (C++) ** Used OpenMP for multithreading and parallelism **
+### Grid-Based Flu Transmission Simulation (C++) ** Used OpenMP for parallelism and multithreading **
 The purpose of this project was to create a visual simulation of a disease, in this case the Flu. There are a number of different variables you can change to see how the flu rate changed including the initial population that is infected with the flu (alpha), the chance that a person with transmit the flu to others (beta), the amount of time someone is infected with the flu (omega) and much more. In order to understand the prject more and how to use it, check out the README.md fild of the project to begin running
 
 ### DBScan Algorithm (C++) ** Used the standard thread library for parallelism and multithreading **
