@@ -3,7 +3,10 @@
 
 ## Projects:
 
+### Grid-Based  (C++) - 
+
 ### DBScan Algorithm (C++) - 
+** Used the stanrard thread library for parallelism and optomization **
 The purpose of this project is to create the DBScan algorithm. The DBScan algorithm is a point grouping algorithm that groups points into different clusters depending upon how far apart they are from other points. This is controlled by a number of inputs including Epsilon, and MinPts. Epsilon is the farthest distance two points can be away from each other while being in the same cluster, and MinPts is the minimum number of points a group needs to have to be considered a cluster. Look into the DBScan algorithm file and the README.md will show how to run it and the specifics of the algorithm
 
 ### Real Estate Contact Management System (Python, MySQL) - 
