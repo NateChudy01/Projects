@@ -3,7 +3,7 @@
 
 ## Projects:
 
-### iStorage (iOS app to simulate iCloud with Xcode swift front end app and AWS connection)
+### iStorage (Swift, Java, AWS API Gateway, AWS Lambda Function, AWSS3 Storage, Xcode)
 The purpose of this project was to create an iOS app that can simulate the functions of iCloud. To begin, we start with a iOS app, this can be achieved through creating an Xcode project that we can then run on our iPhone allowing for an app to be downloaded. This entire app is coded in Swift. From there, we give the project upload capabilities from the iPhone. Then we create the upload method which connects to an AWS Lambda function through an API Gateway. This lambda function has a .jar file in is with java code that takes an encoded base64 image as a parameter and then uploades it to AWSS3. The java file on the lambda function and the Xcode project are attached in the project folder
 
 ### Grid-Based Flu Transmission Simulation (C++) ** Used OpenMP for parallelism and multithreading **
