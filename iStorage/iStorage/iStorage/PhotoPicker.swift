@@ -174,7 +174,7 @@ struct PhotoPicker: View {
                 continue
             }
             
-            guard let url = URL(string: "https://co66ecs6r1.execute-api.us-east-2.amazonaws.com/prod/upload") else {
+            guard let url = URL(string: "API-GATEWAY-NOT-INCLUDED") else {
                 print("Invalid API URL")
                 failedUploads += 1
                 continue
