@@ -11,10 +11,13 @@ place. Some rules for these queries:
 
     -Do not use spaces in a movie or genre name when inserting or selecting, 
     if the movie or genrerequires multiple words use "_" instead of spaces
+    
     -When writing the query, you must type the command in all lowercase
     or all uppercase (ex: insert or INSERT)
+    
     -Make sure the genre you are typing to select is capitalized for the
     first letter
+    
     -we have included a .txt file called movie.txt with 172 movies that 
     will be put into the database as the program is run. If you would like
     to add more you can add to it but keep the same input style
