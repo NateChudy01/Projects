@@ -6,9 +6,11 @@
 ### iStorage (Swift, Java, AWS API Gateway, AWS Lambda Function, AWSS3 Storage, Xcode)
 The purpose of this project was to create an iOS app that can simulate the functions of iCloud. To begin, we start with a iOS app, this can be achieved through creating an Xcode project that we can then run on our iPhone allowing for an app to be downloaded. This entire app is coded in Swift. From there, we give the project upload capabilities from the iPhone. Then we create the upload method which connects to an AWS Lambda function through an API Gateway. This lambda function has a .jar file in is with java code that takes an encoded base64 image as a parameter and then uploades it to AWSS3. The java file on the lambda function and the Xcode project are attached in the project folder
 
-### HerosJourney
+### Heros Journey (Processing - java)
+The purpose of this project was to create a 2D arcade style side-scroller platforming game. It runs in processing, a form of java with additional methods that allow for an easier front end display. It allows you to work through levels and beat the dragon at the end of the game while upgrading your character throughout. On more specifics to run the game, check the README.md in the HerosJourney file
 
 ### SQL Database Simulator (C++) ** Used MPI for parallelism and multithreading **
+The purpose of this project was to create a SQL Database with C++ and MPI with multiple nodes. There is a list of movies in a .txt file in the folder that downloads to the Database once executed. You are able to run queries against this database for different information (more on this in the README.md). The point of this project was not only to create a SWL Database but to also spread the data across different nodes in MPI and execute as efficiently as possible
 
 ### Grid-Based Flu Transmission Simulation (C++) ** Used OpenMP for parallelism and multithreading **
 The purpose of this project was to create a visual simulation of a disease, in this case the Flu. There are a number of different variables you can change to see how the flu rate changed including the initial population that is infected with the flu (alpha), the chance that a person with transmit the flu to others (beta), the amount of time someone is infected with the flu (omega) and much more. In order to understand the prject more and how to use it, check out the README.md fild of the project to begin running
